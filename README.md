@@ -1,7 +1,7 @@
 <h1>S3 Static Website</h1>
 
 <h2>Description</h2>
-This Project consists of a simple Cloudformation template that can automatically create and launch an Ec2 instance with the latest AMI in any region its created in.
+This Project shows you how to make simple static website using S3
 <br />
 
 <h2>Project walk-through:</h2>
