@@ -10,8 +10,8 @@ This Project consists of a simple Cloudformation template that can automatically
 Create a bucket: <br/>
 <img src="https://imgur.com/IAIsTB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Create Stack: <br/>
-<img src="https://imgur.com/dw0gFxv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Disable block Public Access: <br/>
+<img src="https://imgur.com/QQ9v5Ge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Upload Cloudformation Template:  <br/>
