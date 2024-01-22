@@ -22,8 +22,8 @@ Upload Files and folders: <br/>
 <img src="https://i.imgur.com/I3mHvQw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm Role Access and submit Stack:  <br/>
-<img src="https://imgur.com/SFCsYK4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Allow Public Read:  <br/>
+<img src="https://i.imgur.com/lNoFoU0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Stack Creation Complete:  <br/>
