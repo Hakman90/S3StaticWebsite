@@ -26,12 +26,8 @@ Allow Public Read:  <br/>
 <img src="https://i.imgur.com/K8uGf9r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Stack Creation Complete:  <br/>
-<img src="https://imgur.com/9bCOTIA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Ec2 Instance Created:  <br/>
-<img src="https://imgur.com/YSFHj6Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+S3 Static Website Complete:  <br/>
+<img src="https://i.imgur.com/snUUZrH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
