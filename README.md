@@ -14,8 +14,8 @@ Disable block Public Access: <br/>
 <img src="https://imgur.com/QQ9v5Ge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Upload Cloudformation Template:  <br/>
-<img src="https://imgur.com/8Cqi6kP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable Static Website Hosting:  <br/>
+<img src="https://i.imgur.com/zwLpeKa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Name Stack: <br/>
