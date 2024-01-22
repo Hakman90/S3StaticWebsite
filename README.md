@@ -23,7 +23,7 @@ Upload Files and folders: <br/>
 <br />
 <br />
 Allow Public Read:  <br/>
-<img src="https://i.imgur.com/lNoFoU0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K8uGf9r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Stack Creation Complete:  <br/>
