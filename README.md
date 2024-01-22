@@ -18,8 +18,8 @@ Enable Static Website Hosting:  <br/>
 <img src="https://i.imgur.com/zwLpeKa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Name Stack: <br/>
-<img src="https://imgur.com/lrHcftg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Upload Files and folders: <br/>
+<img src="https://i.imgur.com/I3mHvQw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm Role Access and submit Stack:  <br/>
